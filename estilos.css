@@ -33,3 +33,6 @@ p {
             flex: 100%;
             }
             }
+            .greetings {
+                text-align: center;
+            }
